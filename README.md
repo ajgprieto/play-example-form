@@ -151,10 +151,10 @@ ER Design
 ![screenshot](https://raw.github.com/ajgprieto/play-example-form/master/doc/play-example-form%20ERD%20-%20New%20Page.png)
 
 Assumptions
--Many Students can belong to many majors.
--Many students can belong to many hobbies.
--Many students can belong to one GPA.
--Many Students can belong to one Level.
+- Many Students can belong to many majors.
+- Many students can belong to many hobbies.
+- Many students can belong to one GPA.
+- Many Students can belong to one Level.
 
 
 Issues
