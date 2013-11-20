@@ -35,7 +35,7 @@ The design of this example differs in two significant ways from the traditional 
 Steps to understanding the system
 ---------------------------------
 
-**Run the application.**
+**RUN the application.**
 
 Begin by downloading the code, invoking "play run" in your shell, then retrieving http://localhost:9000 
 to display the single form illustrated at the top of this page. The form displays the fields
