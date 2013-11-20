@@ -3,8 +3,6 @@ Overview
 
 ![screenshot](https://raw.github.com/ics-software-engineering/play-example-form/master/doc/play-example-form-homepage.png)
 
-![screenshot](https://raw.github.com/ajgprieto/play-example-form/master/doc/play-example-form%20ERD%20-%20New%20Page.png)
-
 This application provides an example of form processing with the following features:
 
   * Play Version 2.2
