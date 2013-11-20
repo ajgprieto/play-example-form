@@ -145,6 +145,18 @@ illustrates how to load a newer version of Bootstrap with an older, HTMLUnit-com
 Another solution is to use [PhantomJS](http://phantomjs.org/) rather than HTMLUnit; then you can
 use current versions of JQuery. [This fork](https://github.com/buster84/play-example-form) shows how to use PhantomJS.
         
+        
+ER Design
+----------------
+![screenshot](https://raw.github.com/ajgprieto/play-example-form/master/doc/play-example-form%20ERD%20-%20New%20Page.png)
+
+Assumptions
+-Many Students can belong to many majors.
+-Many students can belong to many hobbies.
+-Many students can belong to one GPA.
+-Many Students can belong to one Level.
+
+
 Issues
 ------
 
@@ -183,5 +195,7 @@ Acknowledgements
 
 This example is a descendent of the original [play-form-kludge](https://github.com/philipmjohnson/play-form-kludge/tree/original)
 and [Jason Pearson](https://github.com/kaeawc)'s [very helpful improvements](https://github.com/philipmjohnson/play-form-kludge).
+
+
 
     
